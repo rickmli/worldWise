@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-04T00:23:15.700Z",
+      "notes": "",
+      "position": {
+        "lat": "40.02472254113509",
+        "lng": "-0.014762878417968752"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-04T00:23:17.998Z",
+      "notes": "",
+      "position": {
+        "lat": "40.03957507008197",
+        "lng": "-0.05596160888671876"
+      },
+      "id": 2
+    }
+  ]
+}
